@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package study;
+package src.proto;
 
 message Person {
   string name = 1;
